@@ -8,6 +8,9 @@ public class hari {
 		
 	}
 	
+	public void methodtwo() {
+		System.out.println("haii sharun");
+	}
 	
 }
 
